@@ -2,6 +2,7 @@
 
 DataContract is a library for Typescript to serialize/deserialize data using [decorators](https://github.com/Microsoft/TypeScript-Handbook/blob/master/pages/Decorators.md) syntax in a type-safe way. It also supports value validation. 
 
+
 ## Installation
 
 DataContract is available for both node and browser. You can install it with:
