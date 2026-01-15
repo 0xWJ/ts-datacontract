@@ -11,6 +11,7 @@ npm install ts-datacontract
 ```
 We also recommend you to install [reflect-metadata](https://github.com/rbuckton/reflect-metadata). With that, you can specify property type in Typescript way.
 
+
 ## How to use
 
 DataContract uses typescript decorator `@DataMember` to annotate properties. Properties without `@DataMember` decorator will not be serialized or deserialized. It also requires your classes to inherit `DataContract`.
